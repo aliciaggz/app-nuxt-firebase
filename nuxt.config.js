@@ -11,6 +11,10 @@ export default {
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
 
+  storybook: {
+    // Options
+  },
+
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [],
 
